@@ -17,3 +17,5 @@ How to run it?
 installing python.
 python -m pip install -r requirements.txt
 python main.py
+
+It saves chrome information like cookie to chromeProfile folder, so once you log in, you don't have to login again.
