@@ -1,0 +1,8 @@
+MIN_DELAY_IN_SECONDS=5
+MAX_DELAY_IN_SECONDS=15
+
+
+# Explanation:
+# The application will wait a random time between 5 to 15 seconds between each post.
+# This is necessary to avoid getting your account flagged as spam.
+# Feel free to change the above settings according to your preference.
