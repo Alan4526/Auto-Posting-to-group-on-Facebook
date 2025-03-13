@@ -1,6 +1,7 @@
 # Auto-Posting-to-group-on-Facebook
 
 This bot works based on python selenium.
+OS: Windows & MacOS
 
 CONFIG: MIN_DELAY_TIME
         MAX_DELAY_TIME
